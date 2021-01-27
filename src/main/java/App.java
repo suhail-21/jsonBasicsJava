@@ -6,5 +6,6 @@ public class App {
         JsonReadExample jsonReadExample = new JsonReadExample();
         jsonWriteExample.writeJsonFile();
         jsonReadExample.readJsonFile();
+        System.out.println("New change");
     }
 }
